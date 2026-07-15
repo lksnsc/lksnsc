@@ -1,16 +1,18 @@
-## Hi there 👋
+# NSC | Engenharia de Segurança Operacional
 
-<!--
-**lksnsc/lksnsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvimento seguro em camadas: do firmware de baixo nível à orquestração de software.
 
-Here are some ideas to get you started:
+## Ecossistema Técnico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Firmware & Hardware Core:** C • Rust
+*   **Backend & Aplicações:** Java • Node.js • Python
+*   **Interface & Web:** HTML5 • CSS3 • JavaScript (ES6+)
+*   **Criptografia & Autenticação:** WebAuthn • OpenSSL • Hashes Criptográficos
+*   **Persistência & Cache:** SQL • Redis
+*   **Isolamento & Infraestrutura:** Docker
+
+## Contato Direto
+
+*   **Web:** [nscdesenvolvimento.com.br](https://nscdesenvolvimento.com.br)
+*   **E-mail:** contato.nsc@icloud.com
+*   **WhatsApp:** [+55 (12) 98319-1743](https://wa.me/5512983191743)
