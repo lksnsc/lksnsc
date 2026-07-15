@@ -1,4 +1,4 @@
-# NSC | Engenharia de Segurança Operacional
+# NSC | Engenharia de Segurança
 
 Desenvolvimento seguro em camadas: do firmware de baixo nível à orquestração de software.
 
