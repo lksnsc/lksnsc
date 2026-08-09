@@ -15,4 +15,3 @@ Desenvolvimento seguro em camadas: do firmware de baixo nível à orquestração
 
 *   **Web:** [nscdesenvolvimento.com.br](https://nscdesenvolvimento.com.br)
 *   **E-mail:** contato.nsc@icloud.com
-*   **WhatsApp:** [+55 (12) 98319-1743](https://wa.me/5512983191743)
