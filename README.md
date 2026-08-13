@@ -11,7 +11,6 @@ Desenvolvimento seguro em camadas: do firmware de baixo nível à orquestração
 *   **Rastreabilidade e integridade de dados:** Watermarks invisíveis • Single Source of Truth (SSOT)
 *   **Orquestração e governança:** OLM (Operator Lifecycle Manager) • LTS • Docker
 *   **Persistência segura:** SQL (Criptografia em repouso e validação estrita)
-*   
 
 ## Contato:
 
